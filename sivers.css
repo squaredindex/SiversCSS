@@ -55,6 +55,18 @@ footer {
   font-weight: 500;
 }
 
+dt {
+  font-weight: 600;
+  margin-top: 3rem;
+}
+
+dt span,
+h2 small {
+  font-size: 0.8em;
+  font-weight: 500;
+  color: #666;
+}
+
 header h1,
 header a,
 header a:visited {
